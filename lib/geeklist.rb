@@ -1,3 +1,5 @@
+require 'oauth'
+
 require 'geeklist/client'
 require 'geeklist/version'
 
